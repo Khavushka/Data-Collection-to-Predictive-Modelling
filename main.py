@@ -1,5 +1,5 @@
 # a full stack data science project (from data collective to predictive modelling) 
-
+# https://medium.com/@marie.riviere/a-full-stack-data-science-project-from-data-collection-to-predictive-modelling-for-an-e-commerce-35f18b54a90a
 # notebook imports
 #matplotlib inline
 import pandas as pd
